@@ -47,13 +47,3 @@ if 0 not in arr:
         print("В списке нет нулей")
 
 print(arr)
-
-
-
-
-
-
-
-
-
-
