@@ -8,6 +8,7 @@ def add_excitement(spisok: list):
 def add_excitement(spisok: list, newspisok: list):
     newspisok[:] = [i + "!" for i in spisok]
     return newspisok
+
 # Задача 2
 def match(str1:str,str2:str):
     b = 0
